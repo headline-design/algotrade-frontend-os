@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "incremental": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx"
+, "pages/indexxx.jsx", "pages/indexxx.jsx", "pages/can.jsx", "pages/can.jsx", "pages/indexxx.jpages/Components/PriceChart.tsxrt.jsx", "pages/indexxxpages/asa/[slug].tsxl", "lib/goal/Client.js", "lib/WalletConnect/GroupTransactions.jsx", "Components/Charts/AlgoBar.jsx", "pages/api-docs.jsx"],
+  "exclude": [
+    "node_modules",
+    "./public/static/",
+  ]
+}

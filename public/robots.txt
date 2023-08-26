@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wallet
+
+User-agent: *
+Allow: /
+Sitemap: https://algotrade.app/sitemap.xml
